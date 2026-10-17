@@ -7,3 +7,4 @@
 2026-10-17 | Task 4: Brevo cold campaign Email 1 prep (65 valid emails, NOT sent)
 2026-10-17 | Task 5: warm DM batch 1 (50 drafts)
 2026-10-17 | workplan task 6: blogger outreach (template + 14-row send list)
+2026-10-17 | task 7: youtuber outreach template + send list (23 emails / 30 channels)
