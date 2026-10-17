@@ -1,4 +1,4 @@
-# BeastBrowser positioning — LOCKED v4
+# BeastBrowser positioning — LOCKED v5
 
 TARGET BUYER: operators running 20 to 200 accounts. Agencies, media buyers,
 affiliate farmers, VA teams, ecommerce sellers. NOT beginners with 3 accounts.
