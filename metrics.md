@@ -5,3 +5,4 @@
 2026-10-17 | quora-verisoul-batch2: 5 Q&A drafts written
 2026-10-17 | task 3: cold list (300 prospects: 100 agency, 100 ecommerce, 100 affiliate)
 2026-10-17 | Task 4: Brevo cold campaign Email 1 prep (65 valid emails, NOT sent)
+2026-10-17 | Task 5: warm DM batch 1 (50 drafts)
