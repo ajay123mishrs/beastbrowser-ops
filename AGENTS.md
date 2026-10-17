@@ -46,3 +46,6 @@ Every session also do these without being asked.
 - Reply to every comment and reply received.
 - Append today's numbers to metrics.md: emails sent, DMs sent, posts, signups, activations, paying.
 - Push everything.
+
+AUTONOMOUS EXECUTION (standing instruction from owner, 2026-10-17):
+Move to the next workplan task automatically when the current one completes. Do NOT ask for permission between tasks. Only stop for: blockers needing owner input, paid actions, or account credentials.
