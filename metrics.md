@@ -11,3 +11,4 @@
 2026-10-17 | task 8: proxy partner outreach (template + 7-row send list, NOT sent)
 | 2026-10-17 | Task 9 (Founding 100 landing page) — site/founding-100.html created, pushed (ready to deploy) |
 2026-10-17 | task 10a: bhw karma comments (15 drafts written, not posted)
+2026-10-17 | coupon sites: 20-site NEW90 submission list (prep only, not submitted)
