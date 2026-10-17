@@ -9,3 +9,4 @@
 2026-10-17 | workplan task 6: blogger outreach (template + 14-row send list)
 2026-10-17 | task 7: youtuber outreach template + send list (23 emails / 30 channels)
 2026-10-17 | task 8: proxy partner outreach (template + 7-row send list, NOT sent)
+| 2026-10-17 | Task 9 (Founding 100 landing page) — site/founding-100.html created, pushed (ready to deploy) |
