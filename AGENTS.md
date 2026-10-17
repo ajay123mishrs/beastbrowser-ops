@@ -37,3 +37,12 @@ WORKING RULES:
 - After finishing any task, append a one line summary to ~/beastbrowser/metrics.md with date and task name.
 - Never summarise a table down. If the brief asks for 25 rows, deliver 25 rows.
 - Rules: always append, never overwrite. Date every row.
+
+DAILY STANDING ORDER:
+Every session also do these without being asked.
+- Send 100 cold emails from the queue.
+- Send 20 warm DMs.
+- Post 1 Reddit post and 1 X thread from the queue.
+- Reply to every comment and reply received.
+- Append today's numbers to metrics.md: emails sent, DMs sent, posts, signups, activations, paying.
+- Push everything.

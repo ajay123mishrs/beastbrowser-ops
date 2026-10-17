@@ -1,20 +1,25 @@
-# BeastBrowser positioning - LOCKED v2
+# BeastBrowser positioning — LOCKED v4
 
-MARKET: Global, English-first. Tier 1: US, UK, Canada, Australia, Germany, Netherlands. Tier 2: India, Brazil, Vietnam, Indonesia, Philippines, Russia. Do not frame as India-only.
+TARGET BUYER: operators running 20 to 200 accounts. Agencies, media buyers,
+affiliate farmers, VA teams, ecommerce sellers. NOT beginners with 3 accounts.
 
-PRIMARY USP: No per-profile tax. Unlimited profiles, RPA and browser recorder included, one flat price. Competitors meter profiles and charge extra for automation.
+PRIMARY USP: unlimited profiles at a flat price. Per-profile pricing is a tax
+once you pass 20 accounts. 50 profiles on AdsPower or Dolphin costs 60-100 USD
+a month. BeastBrowser is 30 USD flat, or 199 USD a year (16.58 a month), unlimited.
 
-SECONDARY USP: REST API plus OpenAPI plus MCP server. Automate profiles with AI agents.
+SECONDARY: local-first profiles on your own machine. Free plan gives 5 profiles
+per day, better than AdsPower's 2 and GoLogin's 3.
 
-SUPPORT ANGLE: 24/7 WhatsApp with a real human, every timezone. Competitors run ticket queues.
+SUPPORT: 24/7 WhatsApp with a real human.
 
-DO NOT POSITION ON: cheapest at entry price (AdsPower undercuts entry). Enterprise-grade. India-only framing.
+DO NOT CLAIM:
+- cheapest at entry price. FALSE. AdsPower is 9 USD for 10 profiles.
+- RPA included as a differentiator. AdsPower and Dolphin include it too.
 
-VOICE: Direct, operator to operator. English. Short sentences. No emoji.
+PRICE FACTS TO USE IN ALL COPY:
+GoLogin 9/mo for 10 profiles. AdsPower 9/mo for 10. Dolphin Anty 10/mo for 20.
+Multilogin 7/mo yearly for 10. MoreLogin 9/mo for 10.
+BeastBrowser 30/mo unlimited, 199/yr unlimited.
 
-ALWAYS STATE: Windows and macOS (Apple Silicon). Linux coming. Free plan, 5 profiles per day, no card.
-
-TAGLINE: Unlimited accounts. Automation included. One flat price.
-ONE LINER: BeastBrowser isolates every account in its own browser. Unlimited profiles, RPA included, flat 30 USD. No per-profile tax.
-
-RESEARCH PRIORITY: US and UK sources first, then global.
+TAGLINE: Unlimited profiles. Flat price. Built for 20+ accounts.
+VOICE: direct, operator to operator, English, short sentences, no emoji.
