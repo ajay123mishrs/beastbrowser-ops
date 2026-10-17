@@ -1,0 +1,29 @@
+# Temp files
+*.tmp
+*.temp
+*.swp
+*.swo
+*~
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Env and secrets
+.env
+.env.*
+*.pem
+*.key
+secrets/
+credentials.json
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
